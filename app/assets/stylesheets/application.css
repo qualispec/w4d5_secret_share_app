@@ -11,3 +11,29 @@
  *= require_self
  *= require_tree .
  */
+
+body {
+  font-family: Georgia, sans-serif;
+  padding: 50px 400px 50px 400px;
+  background-color: #C0C0C0;
+  width: 600px;
+}
+
+.header {
+  background-color: #FF3399;
+  border-style: inset;
+}
+
+.company_info {
+  text-align: left;
+  width: 300px;
+}
+
+.user_info {
+  text-align: right;
+  position: relative;
+}
+
+.logo {
+  text-decoration: none;
+}
